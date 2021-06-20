@@ -197,6 +197,10 @@ img {
   justify-self: flex-end;
 }
 
+.features-sub-head img {
+  width: 300px;
+  justify-self: flex-end;
+}
 /* footer */
 
 .footer .social a {
