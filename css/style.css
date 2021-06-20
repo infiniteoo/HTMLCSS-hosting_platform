@@ -190,6 +190,13 @@ img {
   transform: translateY(-15px);
 }
 
+/* features */
+
+.features-head img {
+  width: 200px;
+  justify-self: flex-end;
+}
+
 /* footer */
 
 .footer .social a {
